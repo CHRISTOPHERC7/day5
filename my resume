@@ -1,0 +1,49 @@
+let myResume={
+    "basics": {
+      "name": "CHRISTOPHER K M ",
+      "email": "kmchristo24@gamil.com",
+      "phone": 9094707765,
+      "degree": "BCA",
+      "location": {
+        "address": "4739,TNHB,Sholinganallur",
+        "postalCode": 600119,
+        "city": "Chennai",
+        "state": "Tamilnadu",
+        "country": "India"
+      },
+      "profiles": [
+        {
+          "github":"https://github.com/CHRISTOPHERC7"
+        }
+      ]
+    }
+    
+    "education": [
+      {
+        "institution": "Capital Univercity",
+        "department": "Computer Application",
+        "studyType": "fulltime",
+        "batch start year": 2019,
+        "batch end year": 2022,
+        "gpa": 7.5,
+      }
+    ],
+    "skills": [
+      {
+        "name": "javascript",
+        "level": "beginer"
+      }
+    ],
+    "languages": [
+      {
+        "language": "Tamil,Enlish",
+      }
+    ],
+    "interests": [
+      {
+        "name": "karate,fitness,cricket",
+      }
+    ]
+  }
+  console.log(myResume);
+  
